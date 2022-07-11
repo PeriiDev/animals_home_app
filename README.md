@@ -17,9 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
 
-![<img src="Screenshot_1654949771" width="100"/>](https://user-images.githubusercontent.com/61289713/178323236-3f95651e-44ab-4f71-9b75-2464120569ed.png)
-![Screenshot_1654949798](https://user-images.githubusercontent.com/61289713/178323282-86d36a48-c7de-406f-a5aa-2c0f9e525112.png)
-![Screenshot_1654949884](https://user-images.githubusercontent.com/61289713/178323612-29aea6f6-3a43-48d0-bf2c-ced62fe87959.png)
-![Screenshot_1654949915](https://user-images.githubusercontent.com/61289713/178323674-f2cadce9-76a0-445e-b349-a54c4af5a638.png)
-![Screenshot_1654949935](https://user-images.githubusercontent.com/61289713/178323703-5641e189-b3c3-4ac6-b1e4-acd2a2ee4cc4.png)
-![d1](https://user-images.githubusercontent.com/61289713/178325769-a6f01e46-9071-4d3f-8160-32bbf8a8d91d.png)
+![d1](https://user-images.githubusercontent.com/61289713/178326514-bd2416ec-cb1e-458e-a157-6db56064d117.png)
+![d2](https://user-images.githubusercontent.com/61289713/178326518-03bce521-a9d6-42e0-9479-92821e190c4e.png)
+![d3](https://user-images.githubusercontent.com/61289713/178326523-b6720f89-3258-4c00-9eb5-35a5f8be7a21.png)
+![d4](https://user-images.githubusercontent.com/61289713/178326540-9bdf41d0-44a3-44a9-9a43-6d598a8ee5ac.png)
+![d5](https://user-images.githubusercontent.com/61289713/178326553-2871b9b8-e47c-4d33-8263-e3af9690df95.png)
+![d6](https://user-images.githubusercontent.com/61289713/178326559-f6448ad8-13c8-4adf-9abd-ecd488fcb47e.png)
+![d7](https://user-images.githubusercontent.com/61289713/178326579-563e73d9-d3cc-447b-9e41-0e0e3fb399d3.png)
