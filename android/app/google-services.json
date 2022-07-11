@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622907908039",
+    "project_id": "adoptapet-3c101",
+    "storage_bucket": "adoptapet-3c101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622907908039:android:c520f97b787079c42843e2",
+        "android_client_info": {
+          "package_name": "com.endrinadev.adoptapet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622907908039-rne1qf1k7ujdf7bnvajee84r38tqgsp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.endrinadev.adoptapet_app",
+            "certificate_hash": "ff07c6f61babc61b21f486e7b5ed8300ed67d7c9"
+          }
+        },
+        {
+          "client_id": "622907908039-sbusir44de1heusf2u453ehipr9ufg5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeuXj9zHvVzL3PTGVjQh_JrNI0d4CtPMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622907908039-sbusir44de1heusf2u453ehipr9ufg5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
